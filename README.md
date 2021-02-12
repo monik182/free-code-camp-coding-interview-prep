@@ -34,6 +34,6 @@
 20. [Search within a Linked List](https://github.com/monik182/free-code-camp-coding-interview-prep/tree/master/data-structures/20-linked-list-class-search)
 21. [Remove Elements at a Specific Index in a Linked List](https://github.com/monik182/free-code-camp-coding-interview-prep/tree/master/data-structures/21-linked-list-class-remove-by-index)
 22. [Add Elements at a Specific Index in a Linked List](https://github.com/monik182/free-code-camp-coding-interview-prep/tree/master/data-structures/22-linked-list-class-add-by-index)
-23. [Create a Doubly Linked List](https://github.com/monik182/free-code-camp-coding-interview-prep/tree/master/data-structures/)
-24. [Reverse a Doubly Linked List](https://github.com/monik182/free-code-camp-coding-interview-prep/tree/master/data-structures/)
+23. [Create a Doubly Linked List](https://github.com/monik182/free-code-camp-coding-interview-prep/tree/master/data-structures/23-create-doubly-linked-list)
+24. [Reverse a Doubly Linked List](https://github.com/monik182/free-code-camp-coding-interview-prep/tree/master/data-structures/24-reverse-doubly-linked-list)
 
